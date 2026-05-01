@@ -25,7 +25,9 @@ A key focus of the analysis is whether small water systems (serving 10,000 or fe
 | `Project5_SOW.docx` | Scope of Work |
 | `Project5_Gantt.xlsx` | Project Gantt Chart |
 | `Project5_Timesheet.xlsx` | Project Timesheet |
-
+| `Project5_written report.docx` | Project report |
+| `Project5_technical summary.docx` | Project technical summary |
+| `Project5_non technical summary.docx` | Project non technical summary |
 ---
 
 ## Data Source
